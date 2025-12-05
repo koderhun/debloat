@@ -181,6 +181,12 @@ com.miui.wallpaper.overlay.customize
 # AR Core
 com.google.ar.core
 
+# Отключение Ассистента через ADB
+com.google.android.googlequicksearchbox
+com.google.android.apps.googleassistant
+com.google.android.hotwordenrollment.okgoogle
+
+
 # от пикселя
 com.chiller3.bcr # запись звонков
 com.wstxda.viper4android # эквалайзер
