@@ -1,0 +1,187 @@
+# Список приложений для удаления с комментариями
+
+# Телеметрия и аналитика Xiaomi
+com.miui.analytics                   # Телеметрия и сбор данных Xiaomi
+com.xiaomi.joyose                    # Игровой сервис Joyose (сбор данных)
+com.xiaomi.mi_connect_service        # Сервис подключения устройств Mi Connect
+# com.xiaomi.micloud.sdk               # Облако Xiaomi (синхронизация данных)
+# com.xiaomi.xmsf                      # Push-уведомления Xiaomi
+com.xiaomi.glgm                      # Игровой сервис Xiaomi
+com.miui.daemon                      # Фоновый демон MIUI
+com.miui.msa.global                  # Рекламная служба MIUI
+com.miui.contentcatcher              # Сборщик контента MIUI
+
+# Приложения для РФ/СНГ
+ru.yandex.searchplugin               # Поисковый плагин Яндекс
+ru.yandex.yandexnavi                 # Яндекс Навигатор
+ru.beru.android                      # Маркетплейс Беру
+ru.rutube.app                        # Видеосервис Rutube
+ru.ivi                               # Видеосервис IVI
+ru.alfabank.mobile.android           # Мобильный банк Альфа-Банк
+ru.sberbankmobile                    # Мобильный банк СберБанк
+ru.tinkoff.acquiring                 # Мобильный банк Тинькофф
+ru.mail.mailapp                      # Почта Mail.ru
+com.vk.vkvideo                       # Видео ВКонтакте
+
+# Телеметрия и аналитика
+com.google.android.feedback          # Обратная связь Google
+com.facebook.katana                  # Facebook
+com.facebook.appmanager              # Менеджер приложений Facebook
+com.facebook.services                # Сервисы Facebook
+com.facebook.system                  # Системные сервисы Facebook
+
+# Рекламные приложения MIUI
+com.miui.systemAdSolution            # Рекламная система MIUI
+# com.miui.optimizecenter              # Центр оптимизации (показывает рекламу)
+# com.miui.securitycenter              # Центр безопасности (реклама)
+com.miui.securityadd                 # Дополнения безопасности
+# com.android.browser                  # Браузер по умолчанию (реклама)
+com.miui.player                      # Музыкальный проигрыватель
+com.miui.video                       # Видеоплеер
+com.miui.compass                     # Компас
+com.miui.notes                       # Заметки
+com.miui.calculator                  # Калькулятор
+com.miui.weather2                    # Погода
+
+# Приложения, расходующие батарею
+com.miui.powerkeeper                 # Управление питанием (само расходует батарею)
+com.xiaomi.powerchecker              # Проверка питания
+com.miui.energy                      # Энергосбережение (парадоксально)
+com.qualcomm.timeservice             # Служба времени Qualcomm
+com.android.dreams.basic             # Экранные заставки
+com.android.dreams.phototable        # Фото-заставки
+
+# Приложения Google для отключения (кроме критических)
+com.google.android.videos            # Google TV / Play Видео
+com.google.android.music             # Google Music
+com.google.android.youtube           # YouTube (можно установить отдельно)
+com.google.android.apps.youtube.music # YouTube Music
+com.google.android.apps.youtube.unplugged # YouTube Premium функции
+com.google.android.apps.plus         # Google+ (устаревшее)
+com.google.android.apps.docs.editors.sheets # Google Таблицы
+com.google.android.apps.docs.editors.slides # Google Презентации
+com.google.android.apps.books        # Google Play Книги
+com.google.android.apps.magazines    # Google Журналы
+com.google.android.apps.wellbeing    # Digital Wellbeing
+com.google.android.apps.restore      # Восстановление устройств
+com.google.android.apps.nbu.files    # Files by Google
+com.google.android.apps.googleassistant # Google Ассистент
+com.google.android.apps.uploader     # Google Uploader
+com.google.android.apps.dreams       # Daydream VR
+com.google.android.apps.work.clouddpc # Google Device Policy
+com.google.android.apps.subscriptions.red # Google One
+com.google.android.apps.youtube.creator # YouTube Creator
+com.google.android.apps.youtube.music.setupwizard # YouTube Music Setup
+
+# Дополнительные системные приложения
+com.miui.bugreport                   # Отчеты об ошибках MIUI
+com.miui.gallery                     # Галерея MIUI
+com.xiaomi.payment                   # Платежи Xiaomi
+com.xiaomi.midrop                    # Mi Drop (передача файлов)
+com.miui.videoplayer                 # Mi Video
+com.miui.screenrecorder              # Mi Screen Recorder
+com.miui.yellowpage                  # Желтые страницы
+com.miui.antispam                    # Анти-спам
+com.miui.klo.bugreport               # Bug Report
+com.mi.android.globalpersonalassistant # Персональный ассистент
+com.miui.cloudservice                # Mi Cloud Service
+com.miui.cloudbackup                 # Mi Cloud Backup
+com.mi.webkit.core                   # Mi WebKit Core
+com.android.calendar                 # Календарь
+com.android.mms                      # Сообщения
+com.mi.android.globalFileexplorer    # Файловый менеджер
+com.android.fmradio                  # FM радио
+com.xiaomi.calendar                  # Календарь Xiaomi
+
+# Рекламные сервисы
+com.android.bookmarkprovider         # Провайдер закладок
+com.netflix.partner.activation       # Активация Netflix
+com.netflix.mediaclient              # Netflix
+com.android.providers.partnerbookmarks # Партнерские закладки
+com.bsp.catchlog                     # Логи системы
+com.android.stk                      # Меню SIM-карты
+com.google.android.apps.turbo        # Adaptive Battery
+com.miui.vsimcore                    # SIM сервисы
+com.mipay.wallet.in                  # Mi Pay
+com.tencent.soter.soterserver        # Tencent сервисы
+com.xiaomi.mirecycle                 # Mi Recycle
+com.wapi.wapicertmanage              # Сертификаты WAPI
+com.miui.miservice                   # Mi Service
+cn.wps.xiaomi.abroad.lite            # WPS Office
+com.google.android.gm                # Gmail
+com.google.ar.lens                   # Google Lens
+com.miui.face                        # Распознавание лиц
+com.android.printspooler             # Печать
+com.yandex.browser                   # Браузер Яндекс
+com.miui.android.fashiongallery      # Обои Fashion Gallery
+com.miui.mediaeditor                 # Редактор медиа
+com.android.egg                      # Easter Egg
+com.miui.fmservice                   # FM радио сервис
+com.miui.fm                          # FM радио
+com.google.android.projection.gearhead # Android Auto
+com.mi.globalbrowser                 # Mi Browser
+android.autoinstalls.config.Xiaomi.model # OEM установщик
+
+# Приложения OPPO/Realme (если установлены)
+com.coloros.gamespace                # Игровой центр ColorOS
+com.android.cellbroadcastreceiver    # Оповещения о ЧС
+com.nearme.statistics.rom            # Статистика ROM
+com.heytap.usercenter                # Центр пользователя HeyTap
+com.heytap.habit.analysis            # Аналитика Heytap
+com.heytap.usercenter.overlay        # Оверлей HeyTap
+com.heytap.colorfulengine            # Фреймворк оболочки
+com.heytap.mcs                       # Сообщения HeyTap
+com.heytap.cloud                     # Облако HeyTap
+com.heytap.themestore                # Магазин тем
+com.heytap.market                    # Магазин приложений
+com.coloros.gamespaceui              # Интерфейс игрового центра
+com.coloros.musiclink                # Музыка
+com.debug.loggerui                   # Логгер
+com.heytap.browser                   # Браузер HeyTap
+com.heytap.openid                    # OpenID HeyTap
+com.oppoex.afterservice              # Служба поддержки
+
+# Предустановленные приложения Google на Xiaomi
+com.google.android.apps.maps         # Google Карты
+com.google.android.apps.photos       # Google Фото
+com.google.android.apps.docs         # Google Документы
+com.google.android.apps.translate    # Google Переводчик
+com.google.android.apps.tachyon      # Google Duo
+com.google.android.keep              # Google Keep
+com.google.android.apps.enterprise.cpanel # Google Enterprise
+com.google.android.apps.podcasts     # Google Подкасты
+com.google.android.apps.recorder     # Диктофон Google
+com.google.android.apps.messaging    # Сообщения Google
+# com.google.android.apps.nexuslauncher # Launcher Google - НЕ УДАЛЯТЬ на Pixel!
+com.google.android.apps.helprtc      # RTC Help
+com.google.android.apps.cameralite   # Google Camera Lite
+com.google.android.apps.lens         # Google Lens
+com.google.android.apps.meetings     # Google Meet
+com.google.android.apps.books        # Google Книги
+com.google.android.apps.magazines    # Google Журналы
+com.google.android.apps.newsstand    # Google Newsstand
+
+# добавлены мной
+com.zhiliaoapp.musically             # TikTok
+com.spotify.music                    # Spotify
+com.linkedin.android                 # LinkedIn
+com.fusionmind.crazydriv             # Crazy Driver (игра)
+com.mi.global.bbs                    # Сообщество Xiaomi
+com.gps.draw.flag.coloring.games     # Coloring Games
+com.mi.global.shop                   # Магазин Xiaomi
+com.google.android.apps.chromecast.app # google home
+com.google.android.apps.walletnfcrel # google pay
+com.android.chrome # chrome
+com.miui.screenrecorder # трнасляция
+# Обои (можно заменить)
+com.miui.miwallpaper
+com.miui.miwallpaper.overlay.customize
+com.miui.wallpaper.overlay
+com.miui.wallpaper.overlay.customize
+# AR Core
+com.google.ar.core
+
+# от пикселя
+com.chiller3.bcr # запись звонков
+com.wstxda.viper4android # эквалайзер
+
