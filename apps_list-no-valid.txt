@@ -1,0 +1,141 @@
+Формат: Название_пакета # Комментарий
+============================================
+КРИТИЧЕСКИЕ СИСТЕМНЫЕ ПРИЛОЖЕНИЯ (НЕ ТРОГАТЬ)
+============================================
+com.xiaomi.xmsf # Push-уведомления Xiaomi - системный сервис
+com.miui.optimizecenter # Центр оптимизации - управление памятью
+com.miui.securitycenter # Центр безопасности - ядро защиты MIUI
+com.android.browser # Браузер по умолчанию (может быть WebView)
+com.google.android.apps.wellbeing # Digital Wellbeing - интегрирован в систему
+com.android.providers.partnerbookmarks # Партнерские закладки - системный провайдер
+com.android.stk # Меню SIM-карты - для банковских команд
+com.miui.vsimcore # SIM сервисы - управление eSIM
+com.wapi.wapicertmanage # Сертификаты WAPI - безопасность Wi-Fi
+com.android.printspooler # Печать - системный сервис
+com.android.cellbroadcastreceiver # Оповещения о ЧС - система экстренных оповещений
+com.google.android.apps.nexuslauncher # Launcher Google - НЕ УДАЛЯТЬ без альтернативы
+com.android.chrome # Chrome - часто системный WebView
+com.google.android.apps.chromecast.app # Google Home - для трансляции на Chromecast
+com.google.android.apps.walletnfcrel # Google Pay - для бесконтактных платежей
+com.google.ar.core # AR Core - платформа дополненной реальности
+
+=====================================
+ТЕЛЕМЕТРИЯ И АНАЛИТИКА XIAOMИ (ОТКЛ)
+=====================================
+com.miui.analytics # Телеметрия Xiaomi - сбор данных об использовании
+com.xiaomi.joyose # Игровой сервис Joyose - сбор данных игр
+com.xiaomi.glgm # Игровой сервис Xiaomi - дублирующий функционал
+com.miui.daemon # Фоновый демон MIUI - мониторинг системы
+com.miui.msa.global # Рекламная служба MIUI - главный источник рекламы
+com.miui.contentcatcher # Сборщик контента - анализирует экран
+com.miui.systemAdSolution # Рекламная система MIUI - второй источник рекламы
+com.xiaomi.discover # Discover (аналог GetApps) - магазин приложений
+
+============================================
+ПРИЛОЖЕНИЯ ДЛЯ РФ/СНГ (ОСТАВИТЬ ТОЛЬКО НУЖНЫЕ)
+============================================
+ru.yandex.searchplugin # Поисковый плагин Яндекс - с рабочего стола
+ru.yandex.yandexnavi # Яндекс Навигатор - оставить если используете
+ru.beru.android # Маркетплейс Беру - предустановленный магазин
+ru.rutube.app # Rutube - видеосервис
+ru.ivi # IVI - видеосервис
+ru.alfabank.mobile.android # Альфа-Банк - оставить только если вы клиент
+ru.sberbankmobile # СберБанк - оставить только если вы клиент
+ru.tinkoff.acquiring # Тинькофф - оставить только если вы клиент
+ru.mail.mailapp # Почта Mail.ru - можно заменить
+com.vk.vkvideo # Видео ВКонтакте - отдельное приложение
+com.yandex.browser # Браузер Яндекс - дубль браузера
+
+=====================================
+ПРИЛОЖЕНИЯ GOOGLE (ОСТАВИТЬ КРИТИЧНЫЕ)
+=====================================
+com.google.android.feedback # Обратная связь Google - сбор данных об сбоях
+com.google.android.apps.restore # Восстановление устройств - только для переноса
+com.google.android.apps.googleassistant # Google Ассистент - отключить если не используете
+com.google.android.apps.uploader # Google Uploader - загрузка медиа
+com.google.android.apps.dreams # Daydream VR - устаревший VR-сервис
+com.google.android.apps.work.clouddpc # Google Device Policy - для корпоративных сред
+com.google.android.apps.youtube.creator # YouTube Creator - для авторов контента
+com.google.android.apps.youtube.music.setupwizard # Мастер настройки YouTube Music
+com.google.android.gm # Gmail - оставить если используете
+com.google.ar.lens # Google Lens - можно запускать через другие приложения
+com.google.android.projection.gearhead # Android Auto - отключить если не используете
+com.google.android.googlequicksearchbox # Поиск Google (панель) - можно отключить
+com.google.android.hotwordenrollment.okgoogle # Обучение "Окей Google" - для голосовой активации
+
+=====================================
+ПРИЛОЖЕНИЯ XIAOMI (ДУБЛИРУЮЩИЕ)
+=====================================
+com.miui.player # Музыкальный проигрыватель - можно заменить
+com.miui.video # Видеоплеер MIUI - дублируется
+com.miui.videoplayer # Видеоплеер MIUI (альтернативное название)
+com.miui.compass # Компас - часто неточный
+com.miui.notes # Заметки - можно отключить если не пользуетесь
+com.miui.calculator # Калькулятор - можно заменить
+com.miui.weather2 # Погода - показывает рекламу
+com.miui.bugreport # Отчеты об ошибках - можно отключить
+com.miui.gallery # Галерея MIUI - можно отключить если используете Google Фото
+com.xiaomi.payment # Платежи Xiaomi - актуально только для Китая
+com.xiaomi.midrop # Mi Drop - устаревший аналог ShareIt
+com.miui.screenrecorder # Mi Screen Recorder - можно заменить
+com.miui.yellowpage # Желтые страницы - справочник для Китая
+com.miui.antispam # Анти-спам - можно заменить на Google
+com.mi.android.globalpersonalassistant # Персональный ассистент - "умные" советы
+com.miui.cloudservice # Mi Cloud Service - отключить если не пользуетесь
+com.miui.cloudbackup # Mi Cloud Backup - аналогично
+com.android.calendar # Календарь AOSP - дублирует календарь Xiaomi
+com.xiaomi.calendar # Календарь Xiaomi - оставить один из календарей
+com.android.mms # Сообщения AOSP - можно заменить на Google Messages
+com.android.fmradio # FM радио AOSP - дублирует
+com.miui.fm # FM радио MIUI - оставить один если слушаете
+com.miui.fmservice # FM радио сервис - сервис для радио
+com.miui.miservice # Mi Service - сервисный центр (для Китая)
+com.mipay.wallet.in # Mi Pay - только для Китая/Индии
+com.xiaomi.mirecycle # Mi Recycle - утилизация (для Китая)
+cn.wps.xiaomi.abroad.lite # WPS Office - можно заменить
+com.miui.face # Распознавание лиц - отключить если не используете
+com.miui.android.fashiongallery # Fashion Gallery - обои и темы
+com.miui.mediaeditor # Редактор медиа - встроен в Галерею
+com.mi.globalbrowser # Mi Browser - браузер с агрессивной рекламой
+com.mi.global.bbs # Сообщество Xiaomi - форум пользователей
+com.mi.global.shop # Магазин Xiaomi - для покупки устройств
+
+=====================================
+ОБОИ И ОВЕРЛЕИ (МОЖНО ОТКЛЮЧИТЬ)
+=====================================
+com.miui.miwallpaper # Обои MIUI
+com.miui.miwallpaper.overlay # Оверлей обоев
+com.miui.miwallpaper.overlay.customize # Оверлей кастомизации обоев
+com.miui.wallpaper.overlay # Альтернативный оверлей обоев
+com.miui.wallpaper.overlay.customize # Альтернативный оверлей кастомизации
+
+=====================================
+РЕКЛАМНЫЕ И ПАРТНЕРСКИЕ СЕРВИСЫ (УДАЛЯТЬ)
+=====================================
+com.facebook.katana # Facebook
+com.facebook.appmanager # Менеджер приложений Facebook
+com.facebook.services # Сервисы Facebook
+com.facebook.system # Системные сервисы Facebook
+com.netflix.partner.activation # Активация Netflix
+com.netflix.mediaclient # Netflix
+com.android.bookmarkprovider # Провайдер закладок
+com.bsp.catchlog # Логи системы
+com.tencent.soter.soterserver # Tencent сервисы
+com.miui.securityadd # Дополнения безопасности (сомнительная польза)
+
+=====================================
+ПРИЛОЖЕНИЯ ДЛЯ ПИКСЕЛЯ И ДРУГИЕ (ОСТОРОЖНО)
+=====================================
+com.chiller3.bcr # Запись звонков (Pixel) - на Xiaomi не нужно
+com.wstxda.viper4android # Эквалайзер (установлен вручную)
+de.telekom.tsc # Сервис Telekom - для автонастройки сети в Германии
+com.aura.oobe.vodafone # Vodafone OOBE - автонастройка для Vodafone
+
+=====================================
+РАЗНОЕ И ИГРЫ (ПО ЖЕЛАНИЮ)
+=====================================
+com.zhiliaoapp.musically # TikTok
+com.spotify.music # Spotify
+com.linkedin.android # LinkedIn
+com.fusionmind.crazydriv # Crazy Driver (игра)
+com.gps.draw.flag.coloring.games # Coloring Games (игра)

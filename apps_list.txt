@@ -62,7 +62,7 @@ com.google.android.apps.docs.editors.sheets # Google Таблицы
 com.google.android.apps.docs.editors.slides # Google Презентации
 com.google.android.apps.books        # Google Play Книги
 com.google.android.apps.magazines    # Google Журналы
-com.google.android.apps.wellbeing    # Digital Wellbeing
+# com.google.android.apps.wellbeing    # Digital Wellbeing
 com.google.android.apps.restore      # Восстановление устройств
 com.google.android.apps.nbu.files    # Files by Google
 com.google.android.apps.googleassistant # Google Ассистент
@@ -180,6 +180,9 @@ com.miui.wallpaper.overlay
 com.miui.wallpaper.overlay.customize
 # AR Core
 com.google.ar.core
+com.aura.oobe.vodafone
+de.telekom.tsc
+
 
 # Отключение Ассистента через ADB
 com.google.android.googlequicksearchbox
